@@ -6,10 +6,10 @@ Since we didn't build the car from sketch, if you start from sketch, please read
 
 ## Initial Condition
   However, the car was not in a runnable condition.   
-1.Powerboard only has 1 output  
-2.TX2 USB ports didn't work  
-3.TX2 was using Ubuntu 18.04 and using unknown password  
-4.Missing connector and adaptor for battery  
+1. Powerboard only has 1 output  
+2. TX2 USB ports didn't work  
+3. TX2 was using Ubuntu 18.04 and using unknown password  
+4. Missing connector and adaptor for battery  
   We write this down to remind future project users if anything anything doesn't work exclude these, it could be something we didn't find out.
 
 ## Final Structure

@@ -82,9 +82,3 @@ Next, unplug the USB cable of the VESC from the Jetson NX and plug the USB into 
  Now you can try to speed up and test your vehicle by keyboard. Click the **Enable KeyBoard COntrol** button on the right bar.
 
 ![keypad](Images/keypad.png)
-
-
-
-
- 
-
